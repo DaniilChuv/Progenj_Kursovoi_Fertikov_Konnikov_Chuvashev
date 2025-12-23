@@ -10,7 +10,7 @@
         Console.WriteLine("Для доступа к полной версии переведите на карту:");
         Console.WriteLine("2202 2080 6723 5128");
         Console.WriteLine("Сумма: 11000 рублей");
-        Console.WriteLine();
+        Console.WriteLine(); 
         Console.WriteLine("Нажмите любую клавишу...");
         Console.ReadKey();
     }
